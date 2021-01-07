@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TC4056A
+D 1A Linear lithium ion battery charger
+K
+F https://datasheetspdf.com/parts/TC4056A.pdf?id=1309136
+$ENDCMP
+#
+#End Doc Library
