@@ -16,4 +16,7 @@ This is my collection of KiCAD Printed Circuit Board (PCB) symbols and footprint
 
 ## TC4056A LiPo Battery charger IC
 
+The TC4056A chip schema symbol
+![TC4056A](.images/TC4056A.png) 
+
 More to come, I am sure...
